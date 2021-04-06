@@ -5,6 +5,9 @@ contributor:
     agent_name: Stoner, Harrie F.
     gutenberg_agent_id: '53110'
     url: http://www.gutenberg.org/2009/agents/53110
+covers:
+- cover_type: archival
+  image_path: 64934-h/images/cover.jpg
 creator:
   author:
     agent_name: Bonner, Geraldine
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3132
     wikipedia: https://en.wikipedia.org/wiki/Geraldine_Bonner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64934#The-Castlecourt-Diamond-Mystery
 gutenberg_issued: '2021-03-27'
 gutenberg_type: Text
 identifiers:
